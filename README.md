@@ -12,7 +12,8 @@ An application to learn how NodeJS works and how databases function in MongoDB. 
 Follow the steps below to get your project up and running:
 
 ### 1. **Run Node.js Project**
-    - Run `npm init -y`
+- Run `npm init -y`
+    
 
 ### 2. **Install all dependencies**
    - Install anything that needs the project by runnning `npm install mongoose`
