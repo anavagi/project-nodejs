@@ -1,6 +1,6 @@
 # 🌐 Upload images - Working with MongoBD and NodeJS
 
-An application to learn how NodeJS works and how databases function in MongoDB. It implements the upload and download of images using Postman.
+An application to learn how NodeJS works and how databases like MongoDB needs to be deploy in a project. It implements the upload and download of images using Postman.
 
 
 📅 This project was last updated on **May 20, 2019**.
